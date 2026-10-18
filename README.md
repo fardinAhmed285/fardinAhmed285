@@ -18,7 +18,7 @@
 
 ## `01 / IDENTITY`
 
-Computer Science graduate with First-Class Honours, currently pursuing an MSc in Artificial Intelligence at Universitat Politècnica de Catalunya (UPC), Barcelona.
+Computer Science graduate, currently pursuing an MSc in Artificial Intelligence at UB, UPC & URV.
 
 Interested in practical AI engineering: connecting models, tools, data, and backend services to build useful systems.
 

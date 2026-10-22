@@ -18,7 +18,7 @@
 
 ## `01 / IDENTITY`
 
-Computer Science graduate, currently pursuing an MSc in Artificial Intelligence at UB, UPC & URV.
+Computer Science graduate from University of Westminster, currently pursuing an MSc in Artificial Intelligence at UB, UPC & URV.
 
 Interested in practical AI engineering: connecting models, tools, data, and backend services to build useful systems.
 

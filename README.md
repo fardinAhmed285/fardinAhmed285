@@ -24,7 +24,7 @@ Interested in practical AI engineering: connecting models, tools, data, and back
 
 Current areas of interest include agentic AI, retrieval-augmented generation, deep learning, and autonomous systems.
 
-## `02 / TECH STACK`
+## `02 / TECH STAC`
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
